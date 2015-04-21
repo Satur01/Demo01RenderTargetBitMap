@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-58SKPHFU8PF</Machine>
+    <WindowsUser>JoseSaturnino</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>75d340d9-c896-4a4f-8f65-3a3aec927a56</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Demo01RenderTargetBitMap\Demo01RenderTargetBitMap\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>1FC315830468812A2D1221A97167532502520EBF288415DF4B1F94DE66EAEEC1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>75d340d9-c896-4a4f-8f65-3a3aec927a56_1.0.0.0_neutral__92wkvx70dfpjr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>75d340d9-c896-4a4f-8f65-3a3aec927a56_92wkvx70dfpjr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>75d340d9-c896-4a4f-8f65-3a3aec927a56</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=JoseSaturnino</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Demo01RenderTargetBitMap\Demo01RenderTargetBitMap\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-18T21:54:36.757</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Demo01RenderTargetBitMap\Demo01RenderTargetBitMap\bin\Debug\Demo01RenderTargetBitMap.exe">
+      <PackagePath>Demo01RenderTargetBitMap.exe</PackagePath>
+      <Modified>2015-04-21T04:11:05.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Demo01RenderTargetBitMap\Demo01RenderTargetBitMap\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Demo01RenderTargetBitMap\Demo01RenderTargetBitMap\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Demo01RenderTargetBitMap\Demo01RenderTargetBitMap\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Demo01RenderTargetBitMap\Demo01RenderTargetBitMap\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Demo01RenderTargetBitMap\Demo01RenderTargetBitMap\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-18T21:48:04.256</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Demo01RenderTargetBitMap\Demo01RenderTargetBitMap\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-21T04:11:05.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Demo01RenderTargetBitMap\Demo01RenderTargetBitMap\bin\Debug\Demo01RenderTargetBitMap.xr.xml">
+      <PackagePath>Demo01RenderTargetBitMap.xr.xml</PackagePath>
+      <Modified>2015-04-21T04:11:05.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Demo01RenderTargetBitMap\Demo01RenderTargetBitMap\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-18T21:54:36.666</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Demo01RenderTargetBitMap\Demo01RenderTargetBitMap\Demo01RenderTargetBitMap.csproj;neutral

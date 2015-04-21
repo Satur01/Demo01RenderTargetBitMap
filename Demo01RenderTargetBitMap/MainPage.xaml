@@ -1,0 +1,41 @@
+﻿<Page x:Class="Demo01RenderTargetBitMap.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="using:Demo01RenderTargetBitMap"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d">
+
+    <Grid x:Name="grdRender" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="85*" />
+            <RowDefinition Height="15*" />
+        </Grid.RowDefinitions>
+        <Image x:Name="imgSource" Stretch="UniformToFill" />
+        <StackPanel Grid.Row="1">
+            <TextBlock x:Name="txtText"
+                       Margin="10,0,0,0"
+                       FontSize="40"
+                       Text="How to: Obtener imagenes desde elementos de XAML" />
+            <TextBlock x:Name="txtWeb"
+                       Margin="10,0,0,0"
+                       FontSize="30"
+                       Text="saturninopimentel.com" />
+            <TextBlock x:Name="txtDate"
+                       Margin="10,0,0,0"
+                       FontSize="30" />
+        </StackPanel>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Name="btnTakePhoto"
+                          Click="btnTakePhoto_Click"
+                          Icon="Camera"
+                          Label="Tomar foto" />
+            <AppBarButton Name="btnSave"
+                          Click="btnSave_Click"
+                          Icon="Save"
+                          Label="Guardar" />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
